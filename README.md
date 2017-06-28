@@ -1,3 +1,6 @@
+# Actual development version
+The development has moved to https://github.com/unpsjb-rtsg/slack-freertos
+
 # Slack Stealing for FreeRTOS.
 Patch for using a Slack Stealing enabled scheduler in FreeRTOS.
 
